@@ -1,31 +1,33 @@
 # InstallerX
 
-## 介绍
+## Introduction
 
-一款应用安装程序，为什么不试试【InstallerX】？
+Looking for an application installer? Why not give **InstallerX** a try?
 
-在国产系统的魔改下，许多系统的自带安装程序体验并不是很好，你可以使用【InstallerX】替换掉系统默认安装程序。
+In many customized domestic systems, the experience with the built-in installation programs is not quite optimal. That's where **InstallerX** comes in – you can use it to replace the default system installer.
 
-当然，相对于原生系统，【InstallerX】也带来了更多的安装选项：对话框安装、通知栏安装、自动安装、声明安装者、选择是否安装到所有用户空间、允许测试包、允许降级安装、安装后自动删除安装包。
+Of course, in comparison to the native system, **InstallerX** also offers additional installation options: dialog-based installation, installation through the notification bar, automatic installation, declaration of the installer, choice of whether to install it for all user profiles, allowing installation of test packages, permitting downgrades, and automatic deletion of the installation package after installation.
 
-## 支持版本
+## Supported Versions
 
-Android 5.0 ~ 13
+Compatible with Android 5.0 to 13.
 
-## 下载
+## Download
 
-- [酷安](https://www.coolapk.com/apk/933870)
-- [QQ频道](https://pd.qq.com/s/nx7jpup8)
-- [QQ群组（官方）](https://qm.qq.com/cgi-bin/qm/qr?k=YMyAigxnns_FkISlRaormMiApHr2RmU7&jump_from=webapi&qr=1)
+- [Coolapk](https://www.coolapk.com/apk/933870)
+- [QQ Channel](https://pd.qq.com/s/nx7jpup8)
+- [QQ Group (Official)](https://qm.qq.com/cgi-bin/qm/qr?k=YMyAigxnns_FkISlRaormMiApHr2RmU7&jump_from=webapi&qr=1)
 
-## 捐赠支持
+## Donation Support
 
-- [支付宝](https://qr.alipay.com/fkx18580lfpydiop04dze47)
-- [微信](https://missuo.ru/file/fee5df1381671c996b127.png)
-- [币安](https://missuo.ru/file/28368c28d4ff28d59ed4b.jpg)
+Show your support through donations:
 
-## 开源协议
+- [Alipay](https://qr.alipay.com/fkx18580lfpydiop04dze47)
+- [WeChat](https://missuo.ru/file/fee5df1381671c996b127.png)
+- [Binance Coin](https://missuo.ru/file/28368c28d4ff28d59ed4b.jpg)
 
-InstallerX目前基于 [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html) 开源，但不保证未来依然继续遵循此协议或开源，有权更改开源协议或开源状态。
+## Open Source License
 
-当您选择基于InstallerX进行开发时，需遵循所当前依赖的上游源码所规定的开源协议，不受新上游源码的开源协议影响。
+InstallerX is currently based on the [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html). However, there's no guarantee that it will continue to adhere to this license or remain open source in the future. The right to alter the open source license or open source status is reserved.
+
+When choosing to develop based on InstallerX, you must comply with the open source license stipulated by the upstream source code you're currently dependent on. This makes you unaffected by any new open source license introduced by the upstream source code in the future.
